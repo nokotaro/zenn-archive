@@ -2,7 +2,7 @@
 title: "ZennとQiitaの記事をGitHubリポジトリで同時に管理するテスト"
 emoji: "🧪"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["github", "zenn", "zenncli", "qiita", "qiitacli", "githubactions"]
+topics: ["github", "zenn", "zenncli", "qiita", "qiitacli"]
 published: true
 ---
 ## テスト記事です
