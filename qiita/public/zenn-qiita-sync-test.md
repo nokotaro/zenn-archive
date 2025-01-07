@@ -7,7 +7,6 @@ tags:
   - zenncli
   - qiita
   - qiitacli
-  - githubactions
 updated_at: '2025-01-07T05:38:30.714Z'
 id: null
 organization_url_name: null
